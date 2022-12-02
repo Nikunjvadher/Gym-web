@@ -6,6 +6,8 @@ const Plans = () => {
   return (
     <>
         <div className="plans-container">
+            <div className="blur plan-blur-1"></div>
+            <div className="blur plan-blur-2"></div>
             <div className="programs-header">
                 <span className='stroke-text'>Ready To start</span>
                 <span>Your Journey</span>

@@ -33,3 +33,17 @@
 .logo-f>img{
     width: 10rem;
 }
+
+.footer-blur-1{
+    bottom: 0;
+    right: 15%;
+    width: 26rem;
+    height: 12rem;
+}
+
+.footer-blur-2{
+    top: 10%;
+    left: 6%;
+    width: 26rem;
+    height: 12rem;
+}
