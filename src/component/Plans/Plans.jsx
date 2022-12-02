@@ -15,7 +15,7 @@ const Plans = () => {
             </div>
 
             {/* plans card */}
-            <div className="plans">
+            <div className="plans" id='Plans'>
                 {plansData.map((plan , i)=> {
                     return <div className="plan" id={i}>
                                 {plan.icon}
