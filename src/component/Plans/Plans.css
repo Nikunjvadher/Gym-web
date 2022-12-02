@@ -91,3 +91,16 @@
     top: 6rem;
     right: 0;
 }
+
+@media screen and (max-width: 768px){
+
+    .plans{
+        flex-direction: column;
+    }
+    .plan{
+        min-width: 60%;
+        width: 200px;
+        max-width: 85%;
+    }
+
+}
